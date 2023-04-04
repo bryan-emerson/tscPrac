@@ -1,4 +1,4 @@
-let age: number = 15;
-if (age < 50) {
-  age += 10;
-}
+let sales: number = 123_456_789;
+let course: string = "TypeScript";
+let isPublished: boolean = true;
+let level;
