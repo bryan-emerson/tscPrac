@@ -1,2 +1,1 @@
-let user: [number, string] = [1, 'Bryan'];
-user.push(1)
+enum Size { Small = 1, Medium, Large }
