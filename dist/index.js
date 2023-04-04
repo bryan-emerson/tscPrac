@@ -1,2 +1,3 @@
 "use strict";
-let age = 20;
+let age = 15;
+//# sourceMappingURL=index.js.map
